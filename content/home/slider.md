@@ -34,23 +34,33 @@ height = "calc(100vh - 70px)"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
+
 [[item]]
   title = ""
   content = ""
   align = ""
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "galeria2/danzante-venado.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "galeria2/memento-mori-purpura.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
+
 [[item]]
   title = ""
   content = ""
   align = ""
-
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "galeria2/danzante-venado-sonora.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "galeria2/tornasol-azul.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
 
 [[item]]
   title = ""
@@ -64,27 +74,18 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = ""
   content = ""
-  align = "right"
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "galeria2/tornasol-azul.jpeg"  # Image path relative to your `static/media/` folder.
+  align = ""
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "galeria2/danzante-venado.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
 [[item]]
   title = ""
   content = ""
-  align = "right"
+  align = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "galeria2/santa-tierra.jpeg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-
-[[item]]
-  title = ""
-  content = ""
-  align = "right"
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "galeria2/memento-mori-purpura.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
