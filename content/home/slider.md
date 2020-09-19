@@ -56,7 +56,6 @@ height = "calc(100vh - 70px)"
   title = ""
   content = ""
   align = ""
-
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "galeria2/santa-musica-cecilia.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
@@ -66,9 +65,8 @@ height = "calc(100vh - 70px)"
   title = ""
   content = ""
   align = "right"
-
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "galeria2/tornazol-azul.jpeg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "galeria2/tornasol-azul.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
@@ -84,7 +82,7 @@ height = "calc(100vh - 70px)"
 [[item]]
   title = ""
   content = ""
-  align = "right
+  align = "right"
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "galeria2/memento-mori-purpura.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
